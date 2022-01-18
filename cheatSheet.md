@@ -21,3 +21,6 @@ Modeling has very important interests:
 3. Finally, comes the **prototyp**ing stage, which is always done by the **UX-designer** in collaboration with the **product manager**. The prototype allows for a new phase of sharing and validation with **users/customers**, as well as validating the behaviors that need to be developed.
 ![Fig 3](img/fig_3.png)
 ![Fig 4](img/fig_4.png)
+
+## Figma
+Alternatives: [Sketch](https://www.sketch.com/) + [Zeplin](https://zeplin.io/), [Adobe XD](https://www.adobe.com/en/products/xd.html) + [InVision](https://www.invisionapp.com/).
