@@ -24,3 +24,8 @@ Modeling has very important interests:
 
 ## Figma
 Alternatives: [Sketch](https://www.sketch.com/) + [Zeplin](https://zeplin.io/), [Adobe XD](https://www.adobe.com/en/products/xd.html) + [InVision](https://www.invisionapp.com/).
+
+## Inspiration for Mockup
+[Dribble](https://dribbble.com/), [Behance](https://www.behance.net/), [Awwwards](https://www.awwwards.com/), [Muz.li](https://muz.li/)
+
+Colors: [Coolors](https://coolors.co/), [Adobe Trend Explorer](https://color.adobe.com/fr/trends)
